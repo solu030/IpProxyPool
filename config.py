@@ -79,7 +79,7 @@ TEST_HTTP_HEADER = 'http://httpbin.org/get'
 TEST_HTTPS_HEADER = 'https://httpbin.org/get'
 
 
-LOCAL_IP = ["218.29.48.74",]   #实训楼ip
+LOCAL_IP = []   #实训楼ip
 IP_COUNT = 0
 MAX_IP = 3000
 TIME_OUT = 3
